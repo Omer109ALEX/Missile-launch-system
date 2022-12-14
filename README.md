@@ -1,6 +1,6 @@
 # Missile-launch-system
 
-A system based Saga pattern for launch missiles
+A Web-API system based Saga pattern for launch missiles
 
 To start the web API: run from main.py directory:\
 uvicorn main:app --reload
